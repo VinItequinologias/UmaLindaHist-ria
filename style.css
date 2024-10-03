@@ -1,0 +1,25 @@
+body{
+    font-family: "Amatic SC", system-ui;
+    font-weight: 700;
+    font-style: normal;
+    font-size:50px;
+    color: rgb(23, 243, 159);
+    background-image: url('fundo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh; 
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    background-color:aqua;
+    height: 70px;
+    width: 130px;
+    font-family: "Amatic SC", system-ui;
+    font-weight: 700;
+    font-style: normal;
+    font-size:x-large;
+}
